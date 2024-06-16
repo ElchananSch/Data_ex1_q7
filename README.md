@@ -1,5 +1,12 @@
 sections that we already finished:
 
+a - DONE
+
+b - DONE
+
+c- DONE
+
+Question DONE!
 
 
 link for docs for written answers:
